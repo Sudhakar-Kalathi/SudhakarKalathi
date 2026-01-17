@@ -23,7 +23,7 @@ I am actively seeking an **entry-level opportunity** where I can apply my techni
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects (In Progress)
 
 ### 🔹 Chit Fund Management System (Java Full Stack)
 - Developed a role-based web application to manage chit fund operations
