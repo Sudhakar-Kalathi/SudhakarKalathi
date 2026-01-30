@@ -48,7 +48,7 @@ I am actively seeking an **entry-level opportunity** where I can apply my techni
 ## 📫 Connect With Me
 - 📧 Email: **sudhakarkalathi25@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/sudhakar-kalathi-s
-- 🌐 Portfolio: https://portfolio-sk.netlify.app/
+- 🌐 Portfolio: https://sudhakar-kalathi.github.io/portfolio/
 
 ---
 
